@@ -1,12 +1,128 @@
-<!-- Navy Blue Text with Gold Outline Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=002855&center=true&vCenter=true&random=false&width=600&height=70&lines=%24+whoami;ADARYUS;West+Virginia+University;Software+Developer;Let's+Go+Mountaineers!" alt="Typing SVG" />
-</h1>h1>
+<!-- Neural Network Animated Header with Adaryus.com Colors -->
+<div align="center">
 
-<!-- WVU Blue and Gold Wave Banner -->
+<!-- Neural Network Background Header Image -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A1A,100:FF0000&height=200&section=header&text=ADARYUS&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI-Marketing%20Strategist&descSize=20&descColor=9CA3AF&descAlignY=55" />
+
+<!-- Typing Animation with Red Accent -->
+<a href="https://adaryus.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&height=60&lines=Always+Delivering+AI+Revolution;Yielding+Unmatched+Superiority;%F0%9F%9F%A2+Available+for+Work" alt="Typing SVG" />
+</a>a>
+
+<br/>
+
+<!-- Status Badge -->
+<img src="https://img.shields.io/badge/🟢_Available_for_Work-22C55E?style=for-the-badge&labelColor=0D0D0D" alt="Available" />
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25"/> &nbsp;About Me
+
+```yaml
+Name: Adaryus R. Gillum
+Location: Morgantown, West Virginia
+Role: AI-Marketing Strategist
+Focus: AI Marketing, Spatial Computing, VR/AR
+
+Education:
+  - M.S. AI Marketing (Expected Aug 2026)
+    West Virginia University
+  - B.S. Integrated Marketing Communications
+    WVU - Awarded May 2025
+
+Status: 🟢 Currently accepting new clients
+```
+
+### 🔴 Quick Stats
+
+| Metric | Value |
+|:------:|:-----:|
+| 📜 Certifications | **20+** |
+| 📅 Years Experience | **5+** |
+| 🚀 Projects Completed | **50+** |
+| ⭐ Client Satisfaction | **100%** |
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25"/> &nbsp;Services
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002855,50:FFD700,100:002855&height=200&section=header&text=Adaryus%20Gillum&fontSize=60&fontColor=002855&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20WVU%20Mountaineers&descAlignY=55&descSize=18&descColor=FFD700&stroke=FFD700&strokeWidth=3" />
+  <img src="https://img.shields.io/badge/AI_Marketing_Strategy-FF0000?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D0D0D" />
+    <img src="https://img.shields.io/badge/SEO_&_Content-FF0000?style=for-the-badge&logo=google&logoColor=white&labelColor=0D0D0D" />
+      <img src="https://img.shields.io/badge/Web_Development-FF0000?style=for-the-badge&logo=react&logoColor=white&labelColor=0D0D0D" />
+        <br/>
+          <img src="https://img.shields.io/badge/Marketing_Automation-FF0000?style=for-the-badge&logo=zapier&logoColor=white&labelColor=0D0D0D" />
+            <img src="https://img.shields.io/badge/AI_Chatbots-FF0000?style=for-the-badge&logo=dialogflow&logoColor=white&labelColor=0D0D0D" />
+              <img src="https://img.shields.io/badge/Custom_AI_Solutions-FF0000?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D0D0D" />
 </p>p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25"/> &nbsp;Featured Projects
+
+<p align="center">
+  <a href="https://advertisewv.com">
+      <img src="https://img.shields.io/badge/AdvertiseWV-FF0000?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D0D0D" alt="AdvertiseWV" />
+  </a>a>
+    <a href="https://buckhannon.ai">
+        <img src="https://img.shields.io/badge/Buckhannon.ai-FF0000?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D0D0D" alt="Buckhannon.ai" />
+    </a>a>
+      <br/>
+        <a href="https://ncrjwatch.org">
+            <img src="https://img.shields.io/badge/NCRJ_Watch-FF0000?style=for-the-badge&logo=shield&logoColor=white&labelColor=0D0D0D" alt="NCRJ Watch" />
+        </a>a>
+          <a href="https://ultimategottiline.com">
+              <img src="https://img.shields.io/badge/Ultimate_Gottiline-FF0000?style=for-the-badge&logo=dog&logoColor=white&labelColor=0D0D0D" alt="Ultimate Gottiline" />
+          </a>a>
+</p>p>
+
+| Project | Description |
+|:-------:|:-----------:|
+| **AdvertiseWV** | AI-powered marketing platform for WV businesses |
+| **Buckhannon.ai** | AI solutions for Buckhannon businesses |
+| **NCRJ Watch** | Public safety & accountability platform |
+| **Ultimate Gottiline** | Elite American Bully breeding program |
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0D0D" />
+    <img src="https://img.shields.io/badge/JavaScript-FF0000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D0D0D" />
+      <img src="https://img.shields.io/badge/HTML5-FF0000?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D0D0D" />
+        <img src="https://img.shields.io/badge/CSS3-FF0000?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D0D0D" />
+          <img src="https://img.shields.io/badge/React-FF0000?style=for-the-badge&logo=react&logoColor=white&labelColor=0D0D0D" />
+            <img src="https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git&logoColor=white&labelColor=0D0D0D" />
+</p>p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adaryusrgillum&show_icons=true&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=0D0D0D&hide_border=true&border_radius=10" alt="GitHub Stats" />
+</p>p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adaryusrgillum&theme=dark&hide_border=true&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub Streak" />
+</p>p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adaryusrgillum&layout=compact&title_color=FF0000&text_color=FFFFFF&bg_color=0D0D0D&hide_border=true&border_radius=10" alt="Top Languages" />
+</p>p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adaryusrgillum&theme=radical&no-frame=true&no-bg=true&column=7&title_color=FF0000" alt="Trophies" />
+</p>p>
+
+---
 
 <!-- Snake Animation -->
 <p align="center">
@@ -19,81 +135,29 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
-
-```
-┌──(adaryus㉿wvu)-[~]
-└─$ cat about.txt
-
-╔══════════════════════════════════════════════════════════════╗
-║  🎓 Student at West Virginia University                      ║
-║  💻 Passionate Software Developer                            ║
-║  🚗 Creator of CarUpgradeApp                                 ║
-║  💛 Let's Go Mountaineers! 💙                                ║
-║  🌟 Always learning, always building                         ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 💻 WVU Binary Code
+## 📫 Get In Touch
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&duration=50&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=250&lines=01010111+01010110+01010101;+++++%E2%96%88%E2%96%88%E2%96%88++++%E2%96%88%E2%96%88%E2%96%88++++%E2%96%88%E2%96%88%E2%96%88;+++++%E2%96%88++%E2%96%88++%E2%96%88++%E2%96%88++%E2%96%88++%E2%96%88;+++++%E2%96%88++%E2%96%88++%E2%96%88++%E2%96%88++%E2%96%88++%E2%96%88;+++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88++%E2%96%88%E2%96%88%E2%96%88++%E2%96%88++%E2%96%88;+++++++%E2%96%88++++++%E2%96%88++++%E2%96%88++%E2%96%88;01001101+01001111+01010101+01001110+01010100+01000001+01001001+01001110+01000101+01000101+01010010+01010011" alt="WVU Binary" />
+    <a href="mailto:hello@adaryus.com">
+          <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D" alt="Email" />
+    </a>a>
+    <a href="https://linkedin.com/in/adaryus">
+          <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D" alt="LinkedIn" />
+    </a>a>
+    <a href="https://github.com/adaryusrgillum">
+          <img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D" alt="GitHub" />
+    </a>a>
+    <a href="https://adaryus.com">
+          <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D0D0D" alt="Portfolio" />
+    </a>a>
 </p>p>
 
-```diff
-+    ██    ██  ██    ██  ██    ██   // W = 01010111
-+    ██    ██  ██    ██  ██    ██   // V = 01010110
-+    ██ █  ██  ██    ██  ██    ██   // U = 01010101
-+    ███████    █████    ██████
-+       ███       ██       ████    // MOUNTAINEERS = 01001101...
-@@ LETS GO MOUNTAINEERS! @@
-```
-
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=002855" />
-    <img src="https://img.shields.io/badge/JavaScript-002855?style=for-the-badge&logo=javascript&logoColor=FFD700" />
-    <img src="https://img.shields.io/badge/HTML5-FFD700?style=for-the-badge&logo=html5&logoColor=002855" />
-    <img src="https://img.shields.io/badge/CSS3-002855?style=for-the-badge&logo=css3&logoColor=FFD700" />
-    <img src="https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=002855" />
-    <img src="https://img.shields.io/badge/GitHub-002855?style=for-the-badge&logo=github&logoColor=FFD700" />
+    <img src="https://komarev.com/ghpvc/?username=adaryusrgillum&style=for-the-badge&color=FF0000&labelColor=0D0D0D" alt="Profile Views" />
 </p>p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=adaryusrgillum&show_icons=true&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&bg_color=002855&hide_border=true" alt="GitHub Stats" />
-</p>p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adaryusrgillum&theme=dark&hide_border=true&background=002855&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
-</p>p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adaryusrgillum&layout=compact&title_color=FFD700&text_color=FFFFFF&bg_color=002855&hide_border=true" alt="Top Languages" />
-</p>p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=adaryusrgillum&theme=darkhub&no-frame=true&no-bg=true&column=7&title_color=FFD700" alt="Trophies" />
-</p>p>
-
----
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=adaryusrgillum&style=for-the-badge&color=FFD700&labelColor=002855" alt="Profile Views" />
-</p>p>
-
-<!-- WVU Blue and Gold Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002855,50:FFD700,100:002855&height=120&section=footer" />
+<!-- Neural Network Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:1A1A1A,100:0D0D0D&height=120&section=footer" />
   </picture>
