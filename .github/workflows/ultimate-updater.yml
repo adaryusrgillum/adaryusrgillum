@@ -186,6 +186,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add metrics/
-          git commit -m "📊 Update advanced metrics [$(date +'%Y-%m-%d %H:%M:%S')]" || exit 0
+          git add metrics/ || true
+          git diff --cached --quiet || git commit -m "📊 Update advanced metrics [$(date +'%Y-%m-%d %H:%M:%S')]"
           git push || echo "No push needed"
