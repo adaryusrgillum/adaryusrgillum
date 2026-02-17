@@ -63,9 +63,7 @@ def create_letter_snake():
     # Glow filter
     glow = dwg.filter(id="glow", x="-50%", y="-50%", width="200%", height="200%")
     glow.feGaussianBlur(in_="SourceGraphic", stdDeviation="3", result="blur")
-    merge = glow.feMerge()
-    merge.feMergeNode(in_="blur")
-    merge.feMergeNode(in_="SourceGraphic")
+    glow.feMerge(layernames=["blur", "SourceGraphic"])
     defs.add(glow)
     
     # Background
