@@ -307,9 +307,9 @@ module.exports = ADARYUS;
 ### 🎯 CURRENT OPERATIONS
 
 <!--START_SECTION:current-focus-->
-- ⚡ Optimizing website performance metrics
-- 🎓 WVU M.S. AI Marketing coursework
 - 📱 Mobile app feature development
+- 🚀 AdvertiseWV platform development
+- 🎓 WVU M.S. AI Marketing coursework
 - 🔍 SEO strategy implementation for clients
 <!--END_SECTION:current-focus-->
 
@@ -331,10 +331,10 @@ Creativity:   ████████████████████ 150% 
 ### 🏆 LATEST ACHIEVEMENTS
 
 <!--START_SECTION:achievements-->
+🚀 Launched new client website
+🏅 Deployed 3 AI models this week
 📈 Reached 250+ drone flight hours
-🎓 Completed advanced AI certification
 💻 Contributed to open source project
-🔥 30-day coding streak achieved
 <!--END_SECTION:achievements-->
 
 </div>
