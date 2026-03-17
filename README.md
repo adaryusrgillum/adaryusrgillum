@@ -309,8 +309,8 @@ module.exports = ADARYUS;
 <!--START_SECTION:current-focus-->
 - 🚀 AdvertiseWV platform development
 - 📱 Mobile app feature development
+- 🎓 WVU M.S. AI Marketing coursework
 - ⚡ Optimizing website performance metrics
-- ✈️ Enterprise drone content production
 <!--END_SECTION:current-focus-->
 
 <br/>
@@ -332,9 +332,9 @@ Creativity:   ████████████████████ 150% 
 
 <!--START_SECTION:achievements-->
 🎯 100% client satisfaction maintained
-🎓 Completed advanced AI certification
-🚀 Launched new client website
 💻 Contributed to open source project
+🏅 Deployed 3 AI models this week
+🚀 Launched new client website
 <!--END_SECTION:achievements-->
 
 </div>
