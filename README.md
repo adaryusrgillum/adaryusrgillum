@@ -308,9 +308,9 @@ module.exports = ADARYUS;
 
 <!--START_SECTION:current-focus-->
 - ✈️ Enterprise drone content production
-- 🔍 SEO strategy implementation for clients
+- 📊 Marketing automation pipeline optimization
 - 🚀 AdvertiseWV platform development
-- ⚡ Optimizing website performance metrics
+- 📱 Mobile app feature development
 <!--END_SECTION:current-focus-->
 
 <br/>
@@ -331,10 +331,10 @@ Creativity:   ████████████████████ 150% 
 ### 🏆 LATEST ACHIEVEMENTS
 
 <!--START_SECTION:achievements-->
-⭐ Featured on GitHub Explore
-🎓 Completed advanced AI certification
 📈 Reached 250+ drone flight hours
-🔥 30-day coding streak achieved
+🎓 Completed advanced AI certification
+⭐ Featured on GitHub Explore
+💻 Contributed to open source project
 <!--END_SECTION:achievements-->
 
 </div>
