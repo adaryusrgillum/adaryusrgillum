@@ -307,10 +307,10 @@ module.exports = ADARYUS;
 ### 🎯 CURRENT OPERATIONS
 
 <!--START_SECTION:current-focus-->
-- 🤖 Building custom GPT models for clients
 - ✈️ Enterprise drone content production
-- 🎓 WVU M.S. AI Marketing coursework
 - ⚡ Optimizing website performance metrics
+- 📊 Marketing automation pipeline optimization
+- 📱 Mobile app feature development
 <!--END_SECTION:current-focus-->
 
 <br/>
@@ -331,10 +331,10 @@ Creativity:   ████████████████████ 150% 
 ### 🏆 LATEST ACHIEVEMENTS
 
 <!--START_SECTION:achievements-->
-💻 Contributed to open source project
+⭐ Featured on GitHub Explore
 🎯 100% client satisfaction maintained
-🎓 Completed advanced AI certification
 🚀 Launched new client website
+🎓 Completed advanced AI certification
 <!--END_SECTION:achievements-->
 
 </div>
