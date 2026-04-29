@@ -307,10 +307,10 @@ module.exports = ADARYUS;
 ### 🎯 CURRENT OPERATIONS
 
 <!--START_SECTION:current-focus-->
-- 📱 Mobile app feature development
+- 🎓 WVU M.S. AI Marketing coursework
+- 📊 Marketing automation pipeline optimization
 - 🚀 AdvertiseWV platform development
-- 🔍 SEO strategy implementation for clients
-- 🤖 Building custom GPT models for clients
+- ⚡ Optimizing website performance metrics
 <!--END_SECTION:current-focus-->
 
 <br/>
@@ -332,9 +332,9 @@ Creativity:   ████████████████████ 150% 
 
 <!--START_SECTION:achievements-->
 🏅 Deployed 3 AI models this week
-🎯 100% client satisfaction maintained
-🚀 Launched new client website
-⭐ Featured on GitHub Explore
+🎓 Completed advanced AI certification
+📈 Reached 250+ drone flight hours
+🔥 30-day coding streak achieved
 <!--END_SECTION:achievements-->
 
 </div>
