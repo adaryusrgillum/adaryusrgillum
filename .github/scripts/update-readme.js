@@ -120,6 +120,7 @@ async function fetchGitHubStats() {
       streakDays: streakDays || Math.floor(Math.random() * 30) + 5,
       totalCommits: estimatedCommits + 1500,
       lastUpdated: moment().format('MMMM Do YYYY, h:mm:ss a'),
+      lastUpdatedBadge: moment().format('YYYY-MM-DD HH:mm') + ' UTC',
       timestamp: moment().toISOString()
     };
 
@@ -140,6 +141,7 @@ async function fetchGitHubStats() {
       streakDays: Math.floor(Math.random() * 30) + 10,
       totalCommits: 1500 + Math.floor(Math.random() * 500),
       lastUpdated: moment().format('MMMM Do YYYY, h:mm:ss a'),
+      lastUpdatedBadge: moment().format('YYYY-MM-DD HH:mm') + ' UTC',
       timestamp: moment().toISOString()
     };
   }
@@ -174,7 +176,10 @@ async function updateREADME(stats) {
       { pattern: /<!-- TOTAL_COMMITS -->/g, value: stats.totalCommits.toLocaleString() },
       { pattern: /<!-- REPO_COUNT -->/g, value: stats.repoCount },
       { pattern: /<!-- FOLLOWERS -->/g, value: stats.followers },
-      { pattern: /<!-- LAST_UPDATED -->/g, value: stats.lastUpdated }
+      { pattern: /<!-- LAST_UPDATED -->/g, value: stats.lastUpdated },
+      { pattern: /<!-- LIVE_TIMESTAMP -->/g, value: stats.lastUpdated },
+      { pattern: /<!-- LIVE_TIMESTAMP_BADGE -->/g, value: stats.lastUpdatedBadge },
+      { pattern: /<!-- TODAY_COMMITS -->/g, value: stats.todaysCommits }
     ];
 
     let updatedCount = 0;

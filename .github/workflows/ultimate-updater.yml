@@ -138,7 +138,42 @@ jobs:
           git push || echo "No push needed"
 
   # ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
-  # JOB 4: Generate Advanced Metrics
+  # JOB 4: Generate 3D Contribution Chart
+  # ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+  generate-3d-contrib:
+    name: 🗼 Generate 3D Contribution Chart
+    runs-on: ubuntu-latest
+    needs: generate-snakes
+    
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🗼 Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        with:
+          username: ${{ github.repository_owner }}
+
+      - name: 💾 Commit 3D Chart
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add profile-3d-contrib/
+          if git diff --cached --quiet; then
+            echo "ℹ️ No 3D chart changes"
+          else
+            git commit -m "🗼 Update 3D contribution chart [$(date +'%Y-%m-%d %H:%M:%S')]"
+            git push
+            echo "✅ 3D chart updated!"
+          fi
+
+  # ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+  # JOB 5: Generate Advanced Metrics
   # ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
   generate-metrics:
     name: 📊 Generate Advanced Metrics
@@ -158,6 +193,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
           config_output: svg
+          filename: github-metrics.svg
           plugin_lines: yes
           plugin_lines_sections: base
           plugin_habits: yes
@@ -186,6 +222,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add metrics/ || true
+          git add github-metrics.svg || true
           git diff --cached --quiet || git commit -m "📊 Update advanced metrics [$(date +'%Y-%m-%d %H:%M:%S')]"
           git push || echo "No push needed"
